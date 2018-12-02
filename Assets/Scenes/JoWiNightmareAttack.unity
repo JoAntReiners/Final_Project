@@ -5444,7 +5444,7 @@ GameObject:
   - component: {fileID: 1697348660}
   - component: {fileID: 1697348659}
   m_Layer: 0
-  m_Name: JoWiDreamland
+  m_Name: JoWBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
